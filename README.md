@@ -97,6 +97,30 @@ Confirm the Docker image is pushed to Docker Hub.
 
 ![WhatsApp Image 2025-05-27 at 6 57 06 PM](https://github.com/user-attachments/assets/2b137eba-dc34-47dc-bfe7-7c7768bd0720)
 
+## Interview questions
+1. What is Jenkins, and how is it used in CI/CD?
+   Jenkins is a tool used to automate the building, testing, and deployment of code in CI/CD pipelines.
+
+2. What is a Jenkinsfile?
+   A Jenkinsfile is a text file that defines the steps of a Jenkins pipeline using code.
+
+3. How do you create and configure Jenkins pipelines?
+   You can create a pipeline from the Jenkins dashboard or by using a Jenkinsfile stored in your code repository.
+
+4. What are some common stages in a Jenkins pipeline?
+   Checkout (get code)
+
+Build (compile code)
+
+Test (run tests)
+
+Deploy (send to server)
+
+5. What is the difference between a declarative and scripted Jenkins pipeline?
+   Declarative: Easy, structured syntax.
+
+Scripted: More flexible, uses Groovy code.
+
 
 ---
 
